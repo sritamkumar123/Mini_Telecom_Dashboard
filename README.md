@@ -4,18 +4,16 @@
 Develop a system to track order amounts, evaluate product performance, and identify top-performing partners and area managers. This will enable data-driven forecasting and support strategic decision-making to optimize future sales growth.
 
 ## Dataset Used
--<a href="https://github.com/sritamkumar123/Sales_Dashboard/blob/main/my_first_dashboard.xlsx">Dataset</a>
+-<a href="https://github.com/sritamkumar123/Mini_Telecom_Dashboard/blob/main/Telecom_dashboard.xlsx">Dataset</a>
 
 ## Questions (KPIs)
-* Monthwise Total Sales and Profit(Based on the values)
-* Daywise Total Sales
-* Payment modewise sale percentage
-* Yearwise sales percentage
-* TOP 5 selling products
-* Total Sale Value
-* Total Sale Quantity
-* Top Selling Product
-* Profit %
+* Total Order Amount
+* Total SIMS purchased
+* Total Amount from RCV-10
+* Total Amount from RCV-50
+* Monthwise Order Amount
+* TOP 5 Channel Partners
+* Order Amounts wrt Sales Managers
 
 * Dashboard Interaction: <a href="https://github.com/sritamkumar123/Sales_Dashboard/blob/main/sales_dasboard_screenshot.png">Dashboard</a>
 
